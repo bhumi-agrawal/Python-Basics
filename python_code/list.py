@@ -1,0 +1,11 @@
+fruit = ["apple","bnana","orange"]
+print(fruit)
+print(fruit[0])
+print(fruit[-1])
+fruit.append("kiwi")
+print(fruit)
+fruit.remove("bnana")
+print(len(fruit))
+print(fruit[2])
+print("mango" in fruit)
+print(fruit[:2])
