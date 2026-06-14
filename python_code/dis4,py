@@ -1,0 +1,10 @@
+student = {
+    "name": "bhumi",
+    "age": 18,
+    "branch": "cs"
+}
+
+student["cgpa"] = 75.6
+student["age"] = 19
+
+print(student)
