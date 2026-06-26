@@ -1,0 +1,6 @@
+n = [5,15,18,3,25]
+total = 0
+for num in n:
+    if num > 10:
+        total = total + num
+print(num)
